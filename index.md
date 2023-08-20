@@ -10,17 +10,17 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Alignment suggestions
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## Document classification and validation model
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+### Fee Bucket ideantification:
 
 ```js
 // Javascript code with syntax highlighting.
